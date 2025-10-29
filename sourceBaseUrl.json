@@ -873,8 +873,8 @@
 		"baseUrl": "https://www.mangacopy.com",
 		"serverCode": "/api/kb/web/searchbd/comics",
 		"serverUrl": "https://www.mangacopy.com"
-	}
+	},
+	"backup_update":"https://haleytesla.top/cimoc/sourceBaseUrl.json",
+    "update_backup_my":"https://raw.githubusercontent.com/haleydu-test/cimocUpdate/main/sourceBaseUrl.json"}
+}
 
-},
-"backup_update":"https://haleytesla.top/cimoc/sourceBaseUrl.json",
-"update_backup_my":"https://raw.githubusercontent.com/haleydu-test/cimocUpdate/main/sourceBaseUrl.json"}
